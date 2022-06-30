@@ -1,5 +1,4 @@
 # Table of contents
----
 ### find_key.py
 This will find a value in a nested object and returns its value.
 ### get_ec2_metadata.py
