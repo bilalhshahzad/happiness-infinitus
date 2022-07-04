@@ -1,0 +1,10 @@
+%echo Generating a default key
+Key-Type: default
+Subkey-Type: default
+Name-Real: Gandalf
+Name-Comment: PGP to Encrypt Your Terraform Secrets
+Name-Email: ciao@mondo.com
+Expire-Date: 2
+# Passphrase: boomshakalaka
+%commit
+%echo done
