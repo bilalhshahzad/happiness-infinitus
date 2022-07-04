@@ -4,4 +4,4 @@ This will set up remote state management with S3 backend for your account.This b
 ### app
 This will provision a scalable HA Wordpress on AWS.
 ### lambda
-This will stripping EXIF data from images uploaded to an S3 bucket.
+This will stripp EXIF data from images uploaded to an S3 bucket.
